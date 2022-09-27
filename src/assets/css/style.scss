@@ -1,0 +1,26 @@
+html,
+body {
+  height: 100%;
+  background: #f2f6fa;
+}
+.vue-drawer {
+  .navbar {
+    z-index: 0;
+  }
+}
+
+.btn__close.delete {
+  border: none;
+  outline: none;
+  line-height: 1;
+  position: absolute !important;
+  right: 15px;
+  top: 10px;
+  font-weight: bold;
+  font-family: cursive;
+  cursor: pointer;
+  width: 25px;
+  height: 25px;
+  max-width: 25px;
+  max-height: 25px;
+}
