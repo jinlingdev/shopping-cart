@@ -25,3 +25,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 "# vue-shopping-cart" 
 "# vue-shopping-cart" 
 "# shopping-cart" 
+"# shopping-cart" 
